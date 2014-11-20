@@ -1,4 +1,4 @@
-rrrgo.github.io
-===============
+freemindcore.github.io
+======================
 
-rrrgo related docs
+Hosting rrrgo.org

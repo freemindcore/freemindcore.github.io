@@ -1,14 +1,2 @@
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "my-site"
-  -
-    scope:
-      path: ""
-      type: "defaults"
-    values:
-      layout: "bootstraps" # overrides previous default layout
-      author: "Bootstraps.com"
+markdown: rdiscount
+pygments: true
